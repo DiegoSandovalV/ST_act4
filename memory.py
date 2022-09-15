@@ -8,7 +8,6 @@ Exercises:
 4. Center single-digit tile.
 5. Use letters instead of tiles.
 """
-
 from random import shuffle
 from turtle import up, down, goto, color, begin_fill, forward, left, end_fill
 from turtle import update, ontimer, write, setup, addshape, hideturtle, tracer
